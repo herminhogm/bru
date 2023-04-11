@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("fundo.jpeg");
+    background-size: cover;
+  
+    
+  }
+  
+  h1 {
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(145, 29, 29);
+  }
+
+  h2{
+
+    margin: 0 auto;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:  rgb(145, 29, 29);
+   
+ 
+
+  }
+  #meuBotao{
+    margin: 0 auto;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:  rgb(145, 29, 29);
+   
+    background-color: #aa5a2b; /* Cor de fundo do botão */
+    border: none; /* Remove a borda */
+    color: white; /* Cor do texto do botão */
+    padding: 15px 32px; /* Define o tamanho do botão */
+    text-align: center; /* Alinha o texto no centro */
+    text-decoration: none; /* Remove a sublinhado do texto */
+    display: inline-block; /* Permite que o botão seja dimensionado */
+    font-size: 16px; /* Tamanho da fonte */
+    margin: 10px 2px; /* Define uma margem para o botão */
+    cursor: pointer; /* Altera o cursor ao passar o mouse sobre o botão */
+    border-radius: 10px; /* Arredonda as bordas do botão */
+  }
+  #Audio{
+    margin: 0 auto;
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:  rgb(145, 29, 29);
+   
+    
+    border: none; /* Remove a borda */
+    color: white; /* Cor do texto do botão */
+    padding: 7px 15px; /* Define o tamanho do botão */
+    text-align: center; /* Alinha o texto no centro */
+    text-decoration: none; /* Remove a sublinhado do texto */
+    display: inline-block; /* Permite que o botão seja dimensionado */
+    font-size: 16px; /* Tamanho da fonte */
+    margin: 5px 2px; /* Define uma margem para o botão */
+    
+    border-radius: 30px; /* Arredonda as bordas do botão */
+  }
+  p {
+    color: black;
+    font-size: 18px;
+  }
